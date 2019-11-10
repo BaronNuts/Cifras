@@ -1,6 +1,7 @@
 package ej5;
 import java.util.Scanner;
 public class Ej5 {
+    //Pedir un número entre 0 y 9999 y decir cuántas cifras tiene.
     public static void main(String[] args) {
        Scanner sc= new Scanner(System.in);
        int n,cifras;
